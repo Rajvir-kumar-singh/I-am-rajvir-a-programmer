@@ -1,0 +1,57 @@
+.hi {
+    color: #206a5d;
+    font-family: 'Satisfy', cursive;
+    font-size: 50px;
+    position: relative;
+    left: 635px;
+    top: 100px;
+}
+
+.i {
+    color: #206a5d;
+    font-family: 'Courgette', cursive;
+    font-size: 25px;
+    position: relative;
+    left: 610px;
+    top: 110px;
+}
+
+.rajvir {
+    font-family: 'Kaushan Script', cursive;
+    font-size: 30px;
+}
+
+.pro {
+    color: #206a5d;
+    font-family: 'Courgette', cursive;
+    font-size: 25px;
+    position: relative;
+    left: 600px;
+    top: 115px;
+}
+
+body {
+    background-color: rgb(159, 255, 223);
+}
+
+.underliner {
+    text-decoration: underline;
+}
+
+.topcloud {
+    position: relative;
+    left: 1000px;
+    bottom: 70px;
+}
+
+.bottomcloud {
+    position: relative;
+    left: 200px;
+    top: 60px;
+}
+
+.mountain {
+    position: relative;
+    top: 42px;
+    left: 200px;
+}
